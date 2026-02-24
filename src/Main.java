@@ -12,7 +12,7 @@ public class Main {
 
         Scanner scanner = new Scanner(System.in);
         int choice;
-~
+
         do {
             System.out.println("===== 🎓 Smart University Service System =====");
             System.out.println("1. Show Students");
